@@ -1,5 +1,5 @@
 {
-  "name": "@withshepherd/faker",
+  "name": "faker",
   "description": "Generate massive amounts of fake contextual data",
   "private": false,
   "version": "5.5.4",
